@@ -1,5 +1,7 @@
 # Task-Memory-Engine-papers
 This is an early-stage prototype based on ongoing research submitted to arXiv (April 14, 2025).
+This DAG-based memory architecture was drafted and submitted to arXiv (submission ID: submit/6363031) on April 15, 2025. All contents in this repo were originally created by Ye Ye.
+
 
 # 🧠 Beyond Trees: DAG Memory Framework for Multi-Task Structured LLM Agents
 
