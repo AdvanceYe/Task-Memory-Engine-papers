@@ -1,0 +1,7 @@
+Submission history for DAG Memory Preprint
+
+- Apr 15, 2025: Submitted to arXiv (ID: 6363031)
+- Apr 15, 2025: Status marked as 'on hold' by moderator
+- Apr 15, 2025: This GitHub repo created (private) to preserve timestamp
+
+Repository may be made public if similar research appears.
